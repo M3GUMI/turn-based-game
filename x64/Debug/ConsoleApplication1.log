@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+  图形化界面.cpp
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(790,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1532,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1533,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1534,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1591,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1600,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1609,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1641,47): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1663,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1298,10): warning C4101: “battleInformation”: 未引用的局部变量
+C:\Users\MEGUMI\source\repos\ConsoleApplication1\图形化界面.cpp(1295,10): warning C4101: “battleInform”: 未引用的局部变量
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\MEGUMI\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
